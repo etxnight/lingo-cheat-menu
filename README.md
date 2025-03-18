@@ -44,7 +44,7 @@ If you have any questions or suggestions, please reach out!
 ### Bookmarklet
 
 [lingco bookmarklet](https://etxnights-bookmarklets.glitch.me/lingco.html)
-(drag the url into your bookmarks)
+(drag the underlined text on the website into your bookmarks)
 ---
 
 ### Screenshots
