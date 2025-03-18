@@ -1,10 +1,10 @@
 # Lingco Cheat Menu V8
 
-## 📖 Description
+## Description
 
 The **Lingco Cheat Menu V8** is a powerful JavaScript tool designed to enhance your learning experience on Lingco. With this menu, you can easily access various features that help you navigate through vocabulary modules more efficiently.
 
-## 🚀 Getting Started
+## Getting Started
 
 To get started, simply load the script on the page. A blue button will appear in the bottom right corner. Click this button to access the menu. Make sure you are on a module page that displays the vocabulary.
 
@@ -43,8 +43,8 @@ If you have any questions or suggestions, please reach out!
 
 ### Bookmarklet
 
-> (javascript:(function()%7B(function() %7B%0A    %2F%2F Create a new script element%0A    var script %3D document.createElement('script')%3B%0A    %0A    %2F%2F Set the source to the URL of the JavaScript file%0A    script.src %3D 'https%3A%2F%2Fetxnights-bookmarklets.glitch.me%2Flingcomenu.js'%3B %2F%2F script URL%0A    %0A    %2F%2F Optionally%2C set the script to load asynchronously%0A    script.async %3D true%3B%0A%0A    %2F%2F Append the script to the document head or body%0A    document.head.appendChild(script)%3B%0A%0A    %2F%2F Optional%3A Add an event listener to know when the script has loaded%0A    script.onload %3D function() %7B%0A        console.log('Script loaded successfully!')%3B%0A    %7D%3B%0A%0A    script.onerror %3D function() %7B%0A        console.error('Error loading the script.')%3B%0A    %7D%3B%0A%7D)()%3B%7D)()%3B)
-
+[lingco bookmarklet](https://etxnights-bookmarklets.glitch.me/lingco.html)
+(drag the url into your bookmarks)
 ---
 
 ### Screenshots
